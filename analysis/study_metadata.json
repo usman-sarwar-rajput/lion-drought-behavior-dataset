@@ -1,0 +1,33 @@
+{
+  "name": "Lion",
+  "animals": 11,
+  "source_rows": 185,
+  "kind": "monthly",
+  "outcome": "95% Brownian-bridge home-range area",
+  "units": "km\u00b2",
+  "source": "https://github.com/Abrahms-Lab/CarnivoreSpaceUse-Droughts",
+  "index_name": "three-month SPI",
+  "provenance": "Author GitHub version at commit 4ad426c48d557393cdb60f4baa3fd0c4850f7a05. All seven CSV hashes differed from Dryad; results apply to this GitHub version. Pack/pride-month duplicate rows averaged.",
+  "rows": 173,
+  "units_count": 7,
+  "first": "2012-04-01",
+  "last": "2017-11-01",
+  "stages": {
+    "candidate_events": 0,
+    "complete_events": 0,
+    "complete_units": 0,
+    "stages": {
+      "Baseline": 0,
+      "Near-before": 0,
+      "During": 0,
+      "Early-after": 0,
+      "Late-normal": 0
+    },
+    "reason": "Counts are available event-stage windows, not independent disasters. Late-normal is environmental only."
+  },
+  "slug": "lion",
+  "drought_rows": 2,
+  "index_min": -1.2,
+  "index_max": 1.42,
+  "annual_drought_rows": 0
+}
